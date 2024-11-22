@@ -18,4 +18,4 @@
 Важно вводить в той же форме, в какой он указан в списке
 Затем уточняем цвет снега. При вводе "да" он автоматически будет белым
 Последним этапом выбираем цвет снеговика. Выберем белый
-Получившаяся открытка: ![alt text](https://github.com/mariabold/project_1/blob/main/result.jpg?raw=true)
+Получившаяся открытка: ![alt text](https://github.com/mariabold/project_1/blob/main/result.png?raw=true)
